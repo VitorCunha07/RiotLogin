@@ -1,0 +1,138 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html
+{
+  position:fixed;
+  width:100%;
+  height:100%;
+}
+
+body{
+    background-image: url("img/background.jpg");
+    
+}
+
+
+#all{
+    margin-left: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 60px;
+    width: 400px;
+    height: 1000px;
+    background-color: white;
+
+
+    
+}
+
+#logo{
+    margin-bottom: 30px;
+    height: 80px;
+    text-align: center;
+}
+
+
+h2{
+    text-align: center;
+}
+
+#username{
+    background-color: rgb(235, 225, 225);
+    height: 35px;
+    width: 180px;
+    border: none;
+    border-radius: 10% ;
+    
+}
+
+#password{
+    background-color: rgb(235, 225, 225);
+    height: 35px;
+    width: 180px;
+    border: none;
+    border-radius: 10% ;
+
+}
+
+.boxes{
+    margin: 5%;
+    align-items: center;
+}
+
+
+img{
+    height: 30px;
+}
+
+.methods{
+    display: inline;
+
+
+
+}
+#facebook{
+    background-color: rgb(18, 120, 243);
+    margin-left: 10px;
+    border: 0cap;
+    border-radius: 10%;
+    width: 40px;
+}
+
+#google{
+    background-color: white;
+    border: 0cap;
+    border-radius: 10%;
+    width: 40px;
+}
+
+#apple{
+    background-color: white;
+    border-radius: 10%;
+    width: 40px;
+}
+
+#xbox{
+    background-color: rgb(15, 122, 16);
+    border-color: rgb(15, 122, 16);
+    border-radius: 10%;
+}
+
+#check{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+
+#arrows{
+    margin-left: 70px;
+    margin-top: 120px;
+    height: 60px;
+    width: 60px;
+    background-color: white;
+    border-color: rgb(201, 211, 201);
+    border-radius: 30%;
+    margin-bottom: 40px ;
+    opacity: 0.4;
+
+}
+
+a{
+    margin-left: 57px;
+    color: rgb(140, 141, 140);
+    text-decoration: none;
+    opacity: 0.8;
+    
+}
+
+#patch{
+    text-align: right;
+    color: rgb(140, 141, 140);
+    opacity: 0.9;
+
+}
